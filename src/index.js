@@ -23,9 +23,9 @@ function decode(expr) {
 }
 
 module.exports = {
-    decode
+        decode
 
-}
-const expr = "00000000100000111010101010111100111011100000001011111110101011111010101010101010";
-const result = "ed3ca775";
-decode(expr);
+    }
+    /* const expr = "00000000100000111010101010111100111011100000001011111110101011111010101010101010";
+    const result = "ed3ca775";
+    decode(expr); */
